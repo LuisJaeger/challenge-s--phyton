@@ -15,7 +15,7 @@ aceptar = ["sí", "si", "vale", "de acuerdo"]
 if resumen in aceptar:
     print(f"Te llamas {nombre}, tu juego favorito es {juegofavorito}, tu comida favorita es {comida} y hoy te encuentras {estado}.")
 else:
-    print("Pues vete a tomar por culo payaso")
+    print("Adiós")
 
 
 
